@@ -13,6 +13,7 @@
 
  - Google IT Support Professional Certificate</b>
  - Microsoft IT Support Specialist Professional Certificate
+ - CourseCareers Information Technology Course Certificate
 
 <h2> 🤳 Connect with me:</h2>
 
