@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fernando! <br/><a href="https://github.com/ftapia916">IT</a>, <a href="https://www.linkedin.com/in/fernando-tapiarios-a63aa5335/">Technician/Associate</a>
+<h1>Hi, I'm Fernando! <br/><a href="https://github.com/ftapia916">IT</a>, <a href="https://www.linkedin.com/in/fernando-tapia-rios-a63aa5335">Technician/Associate</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
