@@ -9,6 +9,10 @@
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/ftapia916/Jwipe.Pwrshell)
 
+<h2>📰 Certifications:</h2>
+
+ - Google IT Support Professional Certificate</b>
+ - Microsoft IT Support Specialist Professional Certificate
 
 <h2> 🤳 Connect with me:</h2>
 
