@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
+  - [How To Use a VPN](https://github.com/ftapia916/How.To.Use.A.VPN/tree/main)
   - [osTicket](https://github.com/ftapia916/osTicketLab/tree/main) <b><i></b></i>
   - [DNS](https://github.com/ftapia916/DNSLab/tree/main)
   - [Active Directory](https://github.com/ftapia916/ActiveDirectory) 
